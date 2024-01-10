@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "kashish",
+    "Address": "116/196 shira path agrawal farm , Jaipur",
+    "City": "Jaipur",
+    "Country": "India",
+    "Pincode": "302020",
+    "SAT Score": 111,
+    "Passed": "Pass"
+  },
+  {
+    "Name": "Lakshay",
+    "Address": "Kota ",
+    "City": "Kota",
+    "Country": "India",
+    "Pincode": "202020",
+    "SAT Score": 119,
+    "Passed": "Pass"
+  },
+  {
+    "Name": "pankaj",
+    "Address": "113 DAUSA",
+    "City": "Dausa",
+    "Country": "India",
+    "Pincode": "303327",
+    "SAT Score": 45,
+    "Passed": "Pass"
+  },
+  {
+    "Name": "Manish",
+    "Address": "Gopalpura Jaipur",
+    "City": "Jaipur",
+    "Country": "India",
+    "Pincode": "301919",
+    "SAT Score": 89,
+    "Passed": "Pass"
+  }
+]
