@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Lakshay",
+    "Address": "Gyanvihar Kota ",
+    "City": "Kota",
+    "Country": "India",
+    "Pincode": "301919",
+    "SAT Score": 78,
+    "Passed": "Pass"
+  },
+  {
+    "Name": "Manish",
+    "Address": "Ramleela maidan Dausa",
+    "City": "Dausa",
+    "Country": "India",
+    "Pincode": "303327",
+    "SAT Score": 27,
+    "Passed": "Fail"
+  },
+  {
+    "Name": "Pankaj",
+    "Address": "KANAKPUR SIROHI",
+    "City": "SIROHI",
+    "Country": "INDIA",
+    "Pincode": "20293I",
+    "SAT Score": 22,
+    "Passed": "Fail"
+  },
+  {
+    "Name": "Kashish",
+    "Address": "116/196 shira path agrawal farm , Jaipur",
+    "City": "Jaipur",
+    "Country": "India",
+    "Pincode": "302020",
+    "SAT Score": 124,
+    "Passed": "Pass"
+  }
+]
